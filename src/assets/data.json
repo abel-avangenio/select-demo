@@ -17471,55 +17471,324 @@
     "codeType": "postal",
     "divisions": [
       {
-        "name": "Busan"
+        "name": "Busan",
+        "subdivisions": [
+          "Buk-gu",
+          "Busanjin-gu",
+          "Dong-gu",
+          "Dongnae-gu",
+          "Gangseo-gu",
+          "Geumjeong-gu",
+          "Gijang-gun",
+          "Haeundae-gu",
+          "Jung-gu",
+          "Nam-gu",
+          "Saha-gu",
+          "Sasang-gu",
+          "Seo-gu",
+          "Suyeong-gu",
+          "Yeongdo-gu",
+          "Yeonje-gu"
+        ]
       },
       {
-        "name": "Daegu"
+        "name": "Chungcheongbuk-do",
+        "subdivisions": [
+          "Boeun-gun",
+          "Cheongju-si",
+          "Chungju-si",
+          "Danyang-gun",
+          "Eumseong-gun",
+          "Goesan-gun",
+          "Jecheon-si",
+          "Jeungpyeong-gun",
+          "Jincheon-gun",
+          "Okcheon-gun",
+          "Yeongdong-gun"
+        ]
       },
       {
-        "name": "Daejeon"
+        "name": "Chungcheongnam-do",
+        "subdivisions": [
+          "Asan-si",
+          "Boryeong-si",
+          "Buyeo-gun",
+          "Cheonan-si",
+          "Cheongyang-gun",
+          "Dangjin-si",
+          "Geumsan-gun",
+          "Gongju-si",
+          "Gyeryong-si",
+          "Hongseong-gun",
+          "Nonsan-si",
+          "Seocheon-gun",
+          "Seosan-si",
+          "Taean-gun",
+          "Yesan-gun"
+        ]
       },
       {
-        "name": "Gangwon"
+        "name": "Daegu",
+        "subdivisions": [
+          "Buk-gu",
+          "Dalseo-gu",
+          "Dalseong-gun",
+          "Dong-gu",
+          "Jung-gu",
+          "Nam-gu",
+          "Seo-gu",
+          "Suseong-gu"
+        ]
       },
       {
-        "name": "Gwangju"
+        "name": "Daejeon",
+        "subdivisions": [
+          "Daedeok-gu",
+          "Dong-gu",
+          "Jung-gu",
+          "Seo-gu",
+          "Yuseong-gu"
+        ]
       },
       {
-        "name": "Gyeonggi"
+        "name": "Gangwon-do",
+        "subdivisions": [
+          "Cheorwon-gun",
+          "Chuncheon-si",
+          "Donghae-si",
+          "Gangneung-si",
+          "Goseong-gun",
+          "Hoengseong-gun",
+          "Hongcheon-gun",
+          "Hwacheon-gun",
+          "Inje-gun",
+          "Jeongseon-gun",
+          "Pyeongchang-gun",
+          "Samcheok-si",
+          "Sokcho-si",
+          "Taebaek-si",
+          "Wonju-si",
+          "Yanggu-gun",
+          "Yangyang-gun",
+          "Yeongwol-gun"
+        ]
       },
       {
-        "name": "Incheon"
+        "name": "Gwangju",
+        "subdivisions": ["Buk-gu", "Dong-gu", "Gwangsan-gu", "Nam-gu", "Seo-gu"]
       },
       {
-        "name": "Jeju"
+        "name": "Gyeonggi-do",
+        "subdivisions": [
+          "Ansan-si",
+          "Anseong-si",
+          "Anyang-si",
+          "Bucheon-si",
+          "Dongducheon-si",
+          "Gapyeong-gun",
+          "Gimpo-si",
+          "Goyang-si",
+          "Gunpo-si",
+          "Guri-si",
+          "Gwacheon-si",
+          "Gwangju-si",
+          "Gwangmyeong-si",
+          "Hanam-si",
+          "Hwaseong-si",
+          "Icheon-si",
+          "Namyangju-si",
+          "Osan-si",
+          "Paju-si",
+          "Pocheon-si",
+          "Pyeongtaek-si",
+          "Seongnam-si",
+          "Siheung-si",
+          "Suwon-si",
+          "Uijeongbu-si",
+          "Uiwang-si",
+          "Yangju-si",
+          "Yangpyeong-gun",
+          "Yeoju-si",
+          "Yeoncheon-si",
+          "Yongin-si"
+        ]
       },
       {
-        "name": "North Chungcheong"
+        "name": "Gyeongsangbuk-do",
+        "subdivisions": [
+          "Andong-si",
+          "Bonghwa-gun",
+          "Cheongdo-gun",
+          "Cheongsong-gun",
+          "Chilgok-gun",
+          "Gimcheon-si",
+          "Goryeong-gun",
+          "Gumi-si",
+          "Gunwi-gun",
+          "Gyeongju-si",
+          "Gyeongsan-si",
+          "Mungyeong-si",
+          "Pohang-si",
+          "Sangju-si",
+          "Seongju-gun",
+          "Uiseong-gun",
+          "Uljin-gun",
+          "Ulleung-gun",
+          "Yecheon-gun",
+          "Yeongcheon-si",
+          "Yeongdeok-gun",
+          "Yeongju-si",
+          "Yeongyang-gun"
+        ]
       },
       {
-        "name": "North Gyeongsang"
+        "name": "Gyeongsangnam-do",
+        "subdivisions": [
+          "Changnyeong-gun",
+          "Changwon-si",
+          "Geochang-gun",
+          "Geoje-si",
+          "Gimhae-si",
+          "Goseong-gun",
+          "Hadong-gun",
+          "Haman-gun",
+          "Hamyang-gun",
+          "Hapcheon-gun",
+          "Jinju-si",
+          "Miryang-si",
+          "Namhae-gun",
+          "Sacheon-si",
+          "Sancheong-gun",
+          "Tongyeong-si",
+          "Uiryeong-gun",
+          "Yangsan-si"
+        ]
       },
       {
-        "name": "North Jeolla"
+        "name": "Incheon",
+        "subdivisions": [
+          "Bupyeong-gu",
+          "Dong-gu",
+          "Ganghwa-gun",
+          "Gyeyang-gu",
+          "Jung-gu",
+          "Michuhol-gu",
+          "Namdong-gu",
+          "Ongjin-gun",
+          "Seo-gu",
+          "Yeonsu-gu"
+        ]
       },
       {
-        "name": "Sejong City"
+        "name": "Jeju-do",
+        "subdivisions": ["Jeju-si", "Seogwipo-si"]
       },
       {
-        "name": "Seoul"
+        "name": "Jeollabuk-do",
+        "subdivisions": [
+          "Buan-gun",
+          "Gimje-si",
+          "Gochang-gun",
+          "Gunsan-si",
+          "Iksan-si",
+          "Imsil-gun",
+          "Jangsu-gun",
+          "Jeongeup-si",
+          "Jeonju-si",
+          "Jinan-gun",
+          "Muju-gun",
+          "Namwon-si",
+          "Sunchang-gun",
+          "Wanju-gun"
+        ]
       },
       {
-        "name": "South Chungcheong"
+        "name": "Jeollanam-do",
+        "subdivisions": [
+          "Boseong-gun",
+          "Damyang-gun",
+          "Gangjin-gun",
+          "Goheung-gun",
+          "Gokseong-gun",
+          "Gurye-gun",
+          "Gwangyang-si",
+          "Haenam-gun",
+          "Hampyeong-gun",
+          "Hwasun-gun",
+          "Jangheung-gun",
+          "Jangseong-gun",
+          "Jindo-gun",
+          "Mokpo-si",
+          "Muan-si",
+          "Naju-si",
+          "Sinan-gun",
+          "Suncheon-si",
+          "Wando-gun",
+          "Yeongam-gun",
+          "Yeonggwang-gun",
+          "Yeosu-si"
+        ]
       },
       {
-        "name": "South Gyeongsang"
+        "name": "Sejong",
+        "subdivisions": [
+          "Areum-dong",
+          "Bangok-dong",
+          "Boram-dong",
+          "Bugang-dong",
+          "Daepyeong-dong",
+          "Dajeong-dong",
+          "Dodam-dong",
+          "Geumnam-myeon",
+          "Goun-dong",
+          "Haemil-dong",
+          "Hansol-dong",
+          "Janggun-myeon",
+          "Jeondong-myeon",
+          "Jeonui-myeon",
+          "Jochiwon-eup",
+          "Jongchon-dong",
+          "Saerom-dong",
+          "Sodam-dong",
+          "Sojeong-myeon",
+          "Yeondong-myeon",
+          "Yeongi-myeon",
+          "Yeonseo-myeon"
+        ]
       },
       {
-        "name": "South Jeolla"
+        "name": "Seoul",
+        "subdivisions": [
+          "Dobong-gu",
+          "Dongdaemun-gu",
+          "Dongjak-gu",
+          "Eunpyeong-gu",
+          "Gangbuk-gu",
+          "Gangdong-gu",
+          "Gangnam-gu",
+          "Gangseo-gu",
+          "Geumcheon-gu",
+          "Guro-gu",
+          "Gwanak-gu",
+          "Gwangjin-gu",
+          "Jongno-gu",
+          "Jung-gu",
+          "Jungnang-gu",
+          "Mapo-gu",
+          "Nowon-gu",
+          "Seocho-gu",
+          "Seodaemun-gu",
+          "Seongbuk-gu",
+          "Seongdong-gu",
+          "Songpa-gu",
+          "Yangcheon-gu",
+          "Yeongdeungpo-gu",
+          "Yongsan-gu"
+        ]
       },
       {
-        "name": "Ulsan"
+        "name": "Ulsan",
+        "subdivisions": ["Buk-gu", "Dong-gu", "Jung-gu", "Nam-gu", "Ulju-gun"]
       }
     ]
   },
@@ -18333,73 +18602,481 @@
     "codeType": "postal",
     "divisions": [
       {
-        "name": "Changhua"
+        "name": "Changhua",
+        "subdivisions": [
+          "Beidou",
+          "Changhua City",
+          "Dacheng",
+          "Dacun",
+          "Erlin",
+          "Ershui",
+          "Fangyuan",
+          "Fenyuan",
+          "Fuxing",
+          "Hemei",
+          "Huatan",
+          "Lukang",
+          "Pitou",
+          "Puxin",
+          "Puyan",
+          "Shengang",
+          "Shetou",
+          "Tianwei",
+          "Tianzhong",
+          "Xianxi",
+          "Xihu",
+          "Xiushui",
+          "Xizhou",
+          "Yongjing",
+          "Yuanlin City",
+          "Zhutang"
+        ]
       },
       {
-        "name": "Chiayi City"
+        "name": "Chiayi City",
+        "subdivisions": ["East District", "West District"]
       },
       {
-        "name": "Chiayi"
+        "name": "Chiayi County",
+        "subdivisions": [
+          "Alishan Township",
+          "Budai Township",
+          "Dalin Township",
+          "Dapu Township",
+          "Dongshi Township",
+          "Fanlu Township",
+          "Liujiao Township",
+          "Lucao Township",
+          "Meishan Township",
+          "Minxiong Township",
+          "Puzi City",
+          "Shuishang Township",
+          "Taibao City",
+          "Xikou Township",
+          "Xingang Township",
+          "Yizhu Township",
+          "Zhongpu Township",
+          "Zhuqi Township"
+        ]
       },
       {
-        "name": "Hsinchu"
+        "name": "Hsinchu City",
+        "subdivisions": [
+          "East District",
+          "North District",
+          "Xiangshan District"
+        ]
       },
       {
-        "name": "Hsinchu"
+        "name": "Hsinchu County",
+        "subdivisions": [
+          "Baoshan Township",
+          "Beipu Township",
+          "Emei Township",
+          "Guanxi Township",
+          "Hengshan Township",
+          "Hukou Township",
+          "Jianshi Township",
+          "Qionglin Township",
+          "Wufeng Township",
+          "Xinfeng Township",
+          "Xinpu Township",
+          "Zhubei City",
+          "Zhudong Township"
+        ]
       },
       {
-        "name": "Hualien"
+        "name": "Hualien County",
+        "subdivisions": [
+          "Fengbin Township",
+          "Fenglin Township",
+          "Fuli Township",
+          "Guangfu Township",
+          "Hualien City",
+          "Ji'an Township",
+          "Ruisui Township",
+          "Shoufeng Township",
+          "Wanrong Township",
+          "Xincheng Township",
+          "Xiulin Township",
+          "Yuli Township",
+          "Zhuoxi Township"
+        ]
       },
       {
-        "name": "Kaohsiung"
+        "name": "Kaohsiung City",
+        "subdivisions": [
+          "Alian District",
+          "Daliao District",
+          "Dashe District",
+          "Dashu District",
+          "Dongsha Island",
+          "Fengshan District",
+          "Gangshan District",
+          "Gushan District",
+          "Hunei District",
+          "Jiading District",
+          "Jiaxian District",
+          "Lingya District",
+          "Linyuan District",
+          "Liugui District",
+          "Luzhu District",
+          "Maolin District",
+          "Meinong District",
+          "Mituo District",
+          "Namaxia District",
+          "Nansha Island",
+          "Nanzi District",
+          "Neimen District",
+          "Niaosong District",
+          "Qianjin District",
+          "Qianzhen District",
+          "Qiaotou District",
+          "Qijin District",
+          "Qishan District",
+          "Renwu District",
+          "Sanmin District",
+          "Shanlin District",
+          "Taoyuan District",
+          "Tianliao District",
+          "Xiaogang District",
+          "Xinxing District",
+          "Yanchao District",
+          "Yancheng District",
+          "Yong'an District",
+          "Ziguan District",
+          "Zuoying District"
+        ]
       },
       {
-        "name": "Kaohsiung"
+        "name": "Keelung City",
+        "subdivisions": [
+          "Zhongzheng District",
+          "Ren'ai District",
+          "Xinyi District",
+          "Zhongshan District",
+          "Anle District",
+          "Nuannuan District",
+          "Qidu District"
+        ]
       },
       {
-        "name": "Kinmen"
+        "name": "Kinmen",
+        "subdivisions": [
+          "Jincheng Township",
+          "Jinsha Township",
+          "Lieyu Township",
+          "Wuqiu Township",
+          "Jinhu Township",
+          "Jinning Township"
+        ]
       },
       {
-        "name": "Lienchiang"
+        "name": "Lienchiang",
+        "subdivisions": [
+          "Nangan Township",
+          "Beigan Township",
+          "Juguang Township",
+          "Dongyin Township"
+        ]
       },
       {
-        "name": "Miaoli"
+        "name": "Miaoli",
+        "subdivisions": [
+          "Zhunan Township",
+          "Zhuolan Township",
+          "Miaoli City",
+          "Toufen City",
+          "Yuanli Township",
+          "Tongxiao Township",
+          "Tai'an Township",
+          "Houlong Township",
+          "Zaoqiao Township",
+          "Shitan Township",
+          "Sanyi Township",
+          "Sanwan Township",
+          "Gongguan Township",
+          "Dahu Township",
+          "Tongluo Township",
+          "Nanzhuang Township",
+          "Xihu Township",
+          "Touwu Township"
+        ]
       },
       {
-        "name": "Nantou"
+        "name": "Nantou County",
+        "subdivisions": [
+          "Caotun Township",
+          "Guoxing Township",
+          "Jiji Township",
+          "Lugu Township",
+          "Mingjian Township",
+          "Nantou City",
+          "Puli Township",
+          "Ren’ai Township",
+          "Shuili Township",
+          "Xinyi Township",
+          "Yuchi Township",
+          "Zhongliao Township",
+          "Zhushan Township"
+        ]
       },
       {
-        "name": "Penghu"
+        "name": "New Taipei City",
+        "subdivisions": [
+          "Bali District",
+          "Banqiao District",
+          "Gongliao District",
+          "Jinshan District",
+          "Linkou District",
+          "Luzhou District",
+          "Pinglin District",
+          "Pingxi District",
+          "Ruifang District",
+          "Sanchong District",
+          "Sanxia District",
+          "Sanzhi District",
+          "Shenkeng District",
+          "Shiding District",
+          "Shinmen District",
+          "Shuangxi District",
+          "Shulin District",
+          "Taishan District",
+          "Tamsui District",
+          "Tucheng District",
+          "Wanli District",
+          "Wugu District",
+          "Wulai District",
+          "Xindian District",
+          "Xinzhuang District",
+          "Xizhi District",
+          "Yingge District",
+          "Yonghe District",
+          "Zhonghe District"
+        ]
       },
       {
-        "name": "Pingtung"
+        "name": "Penghu",
+        "subdivisions": [
+          "Baisha Township",
+          "Huxi Township",
+          "Magong City",
+          "Qimei Township",
+          "Wang'an Township",
+          "Xiyu Township"
+        ]
       },
       {
-        "name": "Taichung"
+        "name": "Pingtung County",
+        "subdivisions": [
+          "Changzhi Township",
+          "Chaozhou Township",
+          "Checheng Township",
+          "Chunri Township",
+          "Donggang Township",
+          "Fangliao Township",
+          "Fangshan Township",
+          "Gaoshu Township",
+          "Hengchun Township",
+          "Jiadong Township",
+          "Jiuru Township",
+          "Kanding Township",
+          "Laiyi Township",
+          "Ligang Township",
+          "Linbian Township",
+          "Linluo Township",
+          "Liuqiu Township",
+          "Majia Township",
+          "Manzhou Township",
+          "Mudan Township",
+          "Nanzhou Township",
+          "Neipu Township",
+          "Pingtung City",
+          "Sandimen Township",
+          "Shizi Township",
+          "Taiwu Township",
+          "Wandan Township",
+          "Wanluan Township",
+          "Wutai Township",
+          "Xinpi Township",
+          "Xinyuan Township",
+          "Yanpu Township",
+          "Zhutian Township"
+        ]
       },
       {
-        "name": "Taichung"
+        "name": "Taichung City",
+        "subdivisions": [
+          "Beitun District",
+          "Central District",
+          "Da'an District",
+          "Dadu District",
+          "Dajia District",
+          "Dali District",
+          "Daya District",
+          "Dongshi District",
+          "East District",
+          "Fengyuan District",
+          "Heping District",
+          "Houli District",
+          "Longjing District",
+          "Nantun District",
+          "North District",
+          "Qingshui District",
+          "Shalu District",
+          "Shengang District",
+          "Shigang District",
+          "South District",
+          "Taiping District",
+          "Tanzi District",
+          "Waipu District",
+          "West District",
+          "Wufeng District",
+          "Wuqi District",
+          "Wuri District",
+          "Xinshe District",
+          "Xitun District"
+        ]
       },
       {
-        "name": "Tainan"
+        "name": "Tainan City",
+        "subdivisions": [
+          "Anding District",
+          "Annan District",
+          "Anping District",
+          "Baihe District",
+          "Beimen District",
+          "Danei District",
+          "Dongshan District",
+          "East District",
+          "Guanmiao District",
+          "Guantian District",
+          "Guiren District",
+          "Houbi District",
+          "Jiali District",
+          "Jiangjun District",
+          "Liujia District",
+          "Liuying District",
+          "Longqi District",
+          "Madou District",
+          "Nanhua District",
+          "Nanxi District",
+          "North District",
+          "Qigu District",
+          "Rende District",
+          "Shanhua District",
+          "Shanshang District",
+          "South District",
+          "West Central District",
+          "Xiaying District",
+          "Xigang District",
+          "Xinhua District",
+          "Xinshi District",
+          "Xinying District",
+          "Xuejia District",
+          "Yanshui District",
+          "Yongkang District",
+          "Yujing District",
+          "Zuozhen District"
+        ]
       },
       {
-        "name": "Tainan"
+        "name": "Taipei",
+        "subdivisions": [
+          "Beitou District",
+          "Da'an District",
+          "Datong District",
+          "Nangang District",
+          "Neihu District",
+          "Shilin District",
+          "Songshan District",
+          "Wanhua District",
+          "Wenshan District",
+          "Xinyi District",
+          "Zhongshan District",
+          "Zhongzheng District"
+        ]
       },
       {
-        "name": "Taipei"
+        "name": "Taitung",
+        "subdivisions": [
+          "Beinan Township",
+          "Changbin Township",
+          "Chenggong Township",
+          "Chishang Township",
+          "Daren Township",
+          "Dawu Township",
+          "Donghe Township",
+          "Guanshan Township",
+          "Haiduan Township",
+          "Jinfeng Township",
+          "Lanyu Township",
+          "Lüdao Township",
+          "Luye Township",
+          "Taimali Township",
+          "Taitung City",
+          "Yanping Township"
+        ]
       },
       {
-        "name": "Taitung"
+        "name": "Taoyuan City",
+        "subdivisions": [
+          "Bade District",
+          "Daxi District",
+          "Dayuan District",
+          "Fuxing District",
+          "Guanyin District",
+          "Guishan District",
+          "Longtan District",
+          "Luzhu District",
+          "Pingzhen District",
+          "Taoyuan District",
+          "Xinwu District",
+          "Yangmei District",
+          "Zhongli District"
+        ]
       },
       {
-        "name": "Taoyuan City"
+        "name": "Yilan",
+        "subdivisions": [
+          "Datong Township",
+          "Dongshan Township",
+          "Jiaoxi Township",
+          "Luodong Township",
+          "Nan'ao Township",
+          "Sanxing Township",
+          "Su'ao Township",
+          "Toucheng Township",
+          "Wujie Township",
+          "Yilan City",
+          "Yuanshan Township",
+          "Zhuangwei Township"
+        ]
       },
       {
-        "name": "Yilan"
-      },
-      {
-        "name": "Yunlin"
+        "name": "Yunlin",
+        "subdivisions": [
+          "Baozhong Township",
+          "Beigang Township",
+          "Citong Township",
+          "Dapi Township",
+          "Dongshi Township",
+          "Douliu City",
+          "Dounan Township",
+          "Erlun Township",
+          "Gukeng Township",
+          "Huwei Township",
+          "Kouhu Township",
+          "Linnei Township",
+          "Lunbei Township",
+          "Mailiao Township",
+          "Shuilin Township",
+          "Sihu Township",
+          "Taixi Township",
+          "Tuku Township",
+          "Xiluo Township",
+          "Yuanchang Township"
+        ]
       }
     ]
   },
