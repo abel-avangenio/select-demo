@@ -8248,107 +8248,643 @@
     "codeType": "postal",
     "divisions": [
       {
-        "name": "Anhui",
-        "subdivisions": []
+        "name": "Anhui Sheng",
+        "subdivisions": [
+          "Anqing Shi",
+          "Bengbu Shi",
+          "Bozhou Shi",
+          "Bozhou Shi",
+          "Chizhou Shi",
+          "Chuzhou Shi",
+          "Fuyang Shi",
+          "Hefei Shi",
+          "Huaibei Shi",
+          "Huainan Shi",
+          "Huangshan Shi",
+          "Lu'an Shi",
+          "Ma'anshan Shi",
+          "Suzhou Shi",
+          "Tongling shi",
+          "Wuhu Shi",
+          "Xuancheng Shi"
+        ]
       },
       {
-        "name": "Beijing"
+        "name": "Beijing Shi",
+        "subdivisions": [
+          "Changping Qu",
+          "Chaoyang Qu",
+          "Daxing Qu",
+          "Dongcheng Qu",
+          "Fangshan Qu",
+          "Fengtai Qu",
+          "Haidian Qu",
+          "Huairou Qu",
+          "Mentougou Qu",
+          "Miyun Xian",
+          "Pinggu Qu",
+          "Shijingshan Qu",
+          "Shunyi Qu",
+          "Tongzhou Qu",
+          "Xicheng Qu",
+          "Yanqing Xian"
+        ]
       },
       {
-        "name": "Chongqing"
+        "name": "Chongqing Shi",
+        "subdivisions": [
+          "Banan Qu",
+          "Beibei Qu",
+          "Bishan Xian",
+          "Changshou Qu",
+          "Chengkou Xian",
+          "Dadukou Qu",
+          "Dazu Qu",
+          "Dianjiang Xian",
+          "Fengdu Xian",
+          "Fengjie Xian",
+          "Fuling Qu",
+          "Hechuan Qu",
+          "Jiangbei Qu",
+          "Jiangjin Qu",
+          "Jiulongpo Qu",
+          "Kai Xian",
+          "Liangping Xian",
+          "Nan'an Qu",
+          "Nanchuan Qu",
+          "Pengshui Xian",
+          "Qianjiang Qu",
+          "Qijiang Qu",
+          "Rongchang Xian",
+          "Shapingba Qu",
+          "Shizhu Xian",
+          "Tongliang Xian",
+          "Tongnan Xian",
+          "Wanzhou Qu",
+          "Wulong Xian",
+          "Wushan Xian",
+          "Wuxi Xian",
+          "Xiushan Xian",
+          "Yongchuan Qu",
+          "Youyang Xian",
+          "Yubei Qu",
+          "Yubei Qu",
+          "Yuzhong Qu",
+          "Zhong Xian"
+        ]
       },
       {
-        "name": "Fujian"
+        "name": "Fujian Sheng",
+        "subdivisions": [
+          "Fuzhou Shi",
+          "Fuzhou Shi",
+          "Nanping Shi",
+          "Ningde Shi",
+          "Putian Shi",
+          "Quanzhou Shi",
+          "Sanming Shi",
+          "Xiamen Shi",
+          "Zhangzhou Shi"
+        ]
       },
       {
-        "name": "Gansu"
+        "name": "Gansu Sheng",
+        "subdivisions": [
+          "Baiyin Shi",
+          "Baiyin Shi",
+          "Gannan Zhou",
+          "Jiayuguan Shi",
+          "Jinchang Shi",
+          "Jiuquan Shi",
+          "Lanzhou Shi",
+          "Linxia Zhou",
+          "Longnan Shi",
+          "Linxia Zhou",
+          "Longnan Shi",
+          "Pingliang Shi",
+          "Qingyang Shi",
+          "Tianshui Shi",
+          "Wuwei Shi",
+          "Zhangye Shi"
+        ]
       },
       {
-        "name": "Guangdong"
+        "name": "Guangdong Sheng",
+        "subdivisions": [
+          "Chaozhou Shi",
+          "Dongguan Shi",
+          "Foshan Shi",
+          "Guangzhou Shi",
+          "Heyuan Shi",
+          "Huizhou Shi",
+          "Jiangmen Shi",
+          "Jieyang Shi",
+          "Maoming Shi",
+          "Meizhou Shi",
+          "Qingyuan Shi",
+          "Shantou Shi",
+          "Shanwei Shi",
+          "Shaoguan Shi",
+          "Shenzhen Shi",
+          "Yangjiang Shi",
+          "Yunfu Shi",
+          "Zhanjiang Shi",
+          "Zhaoqing Shi",
+          "Zhongshan Shi",
+          "Zhuhai Shi"
+        ]
       },
       {
-        "name": "Guangxi Zhuang Autonomous Region"
+        "name": "Guangxi Zhuangzuzizhiqu",
+        "subdivisions": [
+          "Baise Shi",
+          "Beihai Shi",
+          "Chongzuo Shi",
+          "Fangchenggang Shi",
+          "Guigang Shi",
+          "Guilin Shi",
+          "Hechi Shi",
+          "Hezhou Shi",
+          "Laibin Shi",
+          "Liuzhou Shi",
+          "Nanning Shi",
+          "Qinzhou Shi",
+          "Wuzhou Shi",
+          "Yulin Shi"
+        ]
       },
       {
-        "name": "Guizhou"
+        "name": "Guizhou Sheng",
+        "subdivisions": [
+          "Anshun Shi",
+          "Bijie Diqu",
+          "Guiyang Shi",
+          "Liupanshui Shi",
+          "Qiandongnan Zhou",
+          "Qiannan Zhou",
+          "Qianxinan Zhou",
+          "Tongren Diqu",
+          "Zunyi Shi"
+        ]
       },
       {
-        "name": "Hainan"
+        "name": "Hainan Sheng",
+        "subdivisions": [
+          "Baisha Xian",
+          "Baoting Xian",
+          "Changjiang Xian",
+          "Chengmai Xian",
+          "Danzhou Shi",
+          "Ding'an Xian",
+          "Dongfang Shi",
+          "Haikou Shi",
+          "Ledong Xian",
+          "Lingao Xian",
+          "Lingshui Xian",
+          "Qionghai Shi",
+          "Qiongzhong Xian",
+          "Sansha Shi",
+          "Sanya Shi",
+          "Tunchang Xian",
+          "Wanning Shi",
+          "Wenchang Shi",
+          "Wuzhishan Shi"
+        ]
       },
       {
-        "name": "Hebei"
+        "name": "Hebei Sheng",
+        "subdivisions": [
+          "Baoding Shi",
+          "Cangzhou Shi",
+          "Chengde Shi",
+          "Handan Shi",
+          "Hengshui Shi",
+          "Langfang Shi",
+          "Qinhuangdao Shi",
+          "Shijiazhuang Shi",
+          "Tangshan Shi",
+          "Xingtai Shi",
+          "Zhangjiakou Shi"
+        ]
       },
       {
-        "name": "Heilongjiang"
+        "name": "Heilongjian Sheng",
+        "subdivisions": [
+          "Da Hinggan Ling Diqu",
+          "Daqing Shi",
+          "Harbin Shi",
+          "Hegang Shi",
+          "Heihe Shi",
+          "Jiamusi Shi",
+          "Jixi Shi",
+          "Mudanjiang Shi",
+          "Qiqihar Shi",
+          "Qitaihe Shi",
+          "Shuangyashan Shi",
+          "Suihua Shi",
+          "Yichun Shi"
+        ]
       },
       {
-        "name": "Henan"
+        "name": "Henan Sheng",
+        "subdivisions": [
+          "Anyang Shi",
+          "Anyang Shi",
+          "Jiaozuo Shi",
+          "Kaifeng Shi",
+          "Luohe Shi",
+          "Luoyang Shi",
+          "Nanyang Shi",
+          "Pingdingshan Shi",
+          "Puyang Shi",
+          "Sanmenxia Shi",
+          "Shangqiu Shi",
+          "Xinxiang Shi",
+          "Xinyang Shi",
+          "Xuchang Shi",
+          "Zhengzhou Shi",
+          "Zhoukou Shi",
+          "Zhumadian Shi"
+        ]
       },
       {
-        "name": "Hong Kong"
+        "name": "Hong Kong",
+        "subdivisions": ["Hong Kong Island", "Kowloon", "New Territories"]
       },
       {
-        "name": "Hubei"
+        "name": "Hubei Sheng",
+        "subdivisions": [
+          "Enshi Zhou",
+          "Ezhou Shi",
+          "Huanggang Shi",
+          "Huangshi Shi",
+          "Jingmen Shi",
+          "Jingzhou Shi",
+          "Qianjiang Shi",
+          "Shennongjia Linqu",
+          "Shiyan Shi",
+          "Suizhou Shi",
+          "Tianmen Shi",
+          "Wuhan Shi",
+          "Xiangyang Shi",
+          "Xianning Shi",
+          "Xiantao Shi",
+          "Xiaogan Shi",
+          "Yichang Shi"
+        ]
       },
       {
-        "name": "Hunan"
+        "name": "Hunan Sheng",
+        "subdivisions": [
+          "Changde Shi",
+          "Changsha Shi",
+          "Chenzhou Shi",
+          "Hengyang Shi",
+          "Huaihua Shi",
+          "Loudi Shi",
+          "Shaoyang Shi",
+          "Xiangtan Shi",
+          "Xiangxi Zhou",
+          "Yiyang Shi",
+          "Yongzhou Shi",
+          "Yueyang Shi",
+          "Zhangjiajie Shi",
+          "Zhuzhou Shi"
+        ]
       },
       {
-        "name": "Inner Mongolia"
+        "name": "Jiangsu Sheng",
+        "subdivisions": [
+          "Changzhou Shi",
+          "Huai'an Shi",
+          "Lianyungang Shi",
+          "Nanjing Shi",
+          "Nantong Shi",
+          "Suqian Shi",
+          "Suzhou Shi",
+          "Taizhou Shi",
+          "Wuxi Shi",
+          "Xuzhou Shi",
+          "Yancheng Shi",
+          "Yangzhou Shi",
+          "Zhenjiang Shi"
+        ]
       },
       {
-        "name": "Jiangsu"
+        "name": "Jiangxi Sheng",
+        "subdivisions": [
+          "Fuzhou Shi",
+          "Ganzhou Shi",
+          "Ji'an Shi",
+          "Jingdezhen Shi",
+          "Jiujiang Shi",
+          "Nanchang Shi",
+          "Pingxiang Shi",
+          "Shangrao Shi",
+          "Xinyu Shi",
+          "Yichun shi",
+          "Yingtan Shi"
+        ]
       },
       {
-        "name": "Jiangxi"
+        "name": "Jilin Sheng",
+        "subdivisions": [
+          "Baicheng Shi",
+          "Baishan Shi",
+          "Changchun Shi",
+          "Jilin Shi",
+          "Liaoyuan Shi",
+          "Siping Shi",
+          "Songyuan Shi",
+          "Tonghua Shi",
+          "Yanbian Zhou"
+        ]
       },
       {
-        "name": "Jilin"
+        "name": "Liaoning Sheng",
+        "subdivisions": [
+          "Anshan Shi",
+          "Benxi Shi",
+          "Chaoyang Shi",
+          "Dalian Shi",
+          "Dandong Shi",
+          "Fushun Shi",
+          "Fuxin Shi",
+          "Huludao Shi",
+          "Jinzhou Shi",
+          "Liaoyang Shi",
+          "Panjin Shi",
+          "Shenyang Shi",
+          "Tieling Shi",
+          "Yingkou Shi"
+        ]
       },
       {
-        "name": "Keelung"
+        "name": "Macau",
+        "subdivisions": ["Macau"]
       },
       {
-        "name": "Liaoning"
+        "name": "Neimenggu Zizhiqu",
+        "subdivisions": [
+          "Alxa Meng",
+          "Baotou Shi",
+          "Bayannur Shi",
+          "Chifeng Shi",
+          "Hinggan Meng",
+          "Hohhot Shi",
+          "Hulun Buir Shi",
+          "Ordos Shi",
+          "Tongliao Shi",
+          "Ulanqab Shi",
+          "Wuhai Shi",
+          "Xilin Gol Meng"
+        ]
       },
       {
-        "name": "Macau"
+        "name": "Ningxia Huizuzizhiqu",
+        "subdivisions": [
+          "Guyuan Shi",
+          "Shizuishan Shi",
+          "Wuzhong Shi",
+          "Yinchuan Shi",
+          "Zhongwei Shi"
+        ]
       },
       {
-        "name": "Ningxia Hui Autonomous Region"
+        "name": "Qinghai Sheng",
+        "subdivisions": [
+          "Golog Zhou",
+          "Haibei Zhou",
+          "Haidong Shi",
+          "Hainan Zhou",
+          "Haidong Shi",
+          "Hainan Zhou",
+          "Haixi Zhou",
+          "Huangnan Zhou",
+          "Xining Shi",
+          "Yushu Zhou"
+        ]
       },
       {
-        "name": "Qinghai"
+        "name": "Shaanxi Sheng",
+        "subdivisions": [
+          "Ankang Shi",
+          "Baoji Shi",
+          "Hanzhong Shi",
+          "Shangluo Shi",
+          "Tongchuan Shi",
+          "Weinan Shi",
+          "Xi'an Shi",
+          "Xianyang Shi",
+          "Yan'an Shi",
+          "Yulin Shi"
+        ]
       },
       {
-        "name": "Shaanxi"
+        "name": "Shandong Sheng",
+        "subdivisions": [
+          "Binzhou shi",
+          "Dezhou Shi",
+          "Dongying Shi",
+          "Heze Shi",
+          "Jinan Shi",
+          "Jining Shi",
+          "Laiwu Shi",
+          "Liaocheng Shi",
+          "Linyi Shi",
+          "Qingdao Shi",
+          "Rizhao Shi",
+          "Tai'an Shi",
+          "Weifang shi",
+          "Weihai Shi",
+          "Yantai Shi",
+          "Zaozhuang Shi",
+          "Zibo Shi"
+        ]
       },
       {
-        "name": "Shandong"
+        "name": "Shanghai Shi",
+        "subdivisions": [
+          "Baoshan Qu",
+          "Changning Qu",
+          "Chongming Xian",
+          "Fengxian Qu",
+          "Hongkou Qu",
+          "Huangpu Qu",
+          "Jiading Qu",
+          "Jing'an Qu",
+          "Jinshan Qu",
+          "Minhang Qu",
+          "Pudong Xinqu",
+          "Putuo Qu",
+          "Qingpu Qu",
+          "Songjiang Qu",
+          "Xuhui Qu",
+          "Yangpu Qu",
+          "Zhabei Qu"
+        ]
       },
       {
-        "name": "Shanghai"
+        "name": "Shanxi Sheng",
+        "subdivisions": [
+          "Changzhi Shi",
+          "Datong Shi",
+          "Jincheng Shi",
+          "Jinzhong Shi",
+          "Linfen Shi",
+          "Lüliang Shi",
+          "Shuozhou Shi",
+          "Taiyuan Shi",
+          "Xinzhou Shi",
+          "Yangquan Shi",
+          "Yuncheng Shi"
+        ]
       },
       {
-        "name": "Shanxi"
+        "name": "Sichuan Sheng",
+        "subdivisions": [
+          "Aba Zangzuqiangzuzizhizhou",
+          "Bazhong Shi",
+          "Chengdu Shi",
+          "Dazhou Shi",
+          "Deyang Shi",
+          "Garzê Zhou",
+          "Guang'an Shi",
+          "Guangyuan Shi",
+          "Leshan Shi",
+          "Liangshan Zhou",
+          "Luzhou Shi",
+          "Meishan Shi",
+          "Mianyang Shi",
+          "Nanchong Shi",
+          "Neijiang Shi",
+          "Panzhihua Shi",
+          "Suining Shi",
+          "Ya'an Shi",
+          "Yibin Shi",
+          "Zigong Shi",
+          "Ziyang Shi"
+        ]
       },
       {
-        "name": "Sichuan"
+        "name": "Taiwan",
+        "subdivisions": [
+          "Changhua County",
+          "Chiayi City",
+          "Chiayi County",
+          "Hsinchu City",
+          "Hsinchu County",
+          "Hualien County",
+          "Kaohsiung City",
+          "Keelung City",
+          "Kinmen County",
+          "Lienchiang County",
+          "Miaoli County",
+          "Nantou County",
+          "New Taipei City",
+          "Penghu County",
+          "Pingtung County",
+          "Taichung City",
+          "Tainan City",
+          "Taipei City",
+          "Taitung County",
+          "Taoyuan City",
+          "Yilan County",
+          "Yunlin County"
+        ]
       },
       {
-        "name": "Taiwan, People's Republic of China"
+        "name": "Tainjin Shi",
+        "subdivisions": [
+          "Baodi Qu",
+          "Beichen Qu",
+          "Binhai Xinqu",
+          "Dongli Qu",
+          "Hebei Qu",
+          "Hedong Qu",
+          "Heping Qu",
+          "Hexi Qu",
+          "Hongqiao Qu",
+          "Ji Xian",
+          "Jinghai Xian",
+          "Jinnan Qu",
+          "Nankai Qu",
+          "Ninghe Xian",
+          "Wuqing Qu",
+          "Xiqing Qu"
+        ]
       },
       {
-        "name": "Tibet Autonomous Region"
+        "name": "Xinjiang Weiwuerzizhiqu",
+        "subdivisions": [
+          "Aksu Diqu",
+          "Ala'er Shi",
+          "Altay Shi",
+          "Bayingolin Zhou",
+          "Bortala Zhou",
+          "Changji Zhou",
+          "Hami Diqu",
+          "Hotan Diqu",
+          "Ili Zhou",
+          "Karamay Shi",
+          "Kashi Diqu",
+          "Kizilsu Zhou",
+          "Shihezi Shi",
+          "Tacheng Diqu",
+          "Tumushuke Shi",
+          "Turpan Diqu",
+          "Ürümqi Shi",
+          "Wujiaqu Shi"
+        ]
       },
       {
-        "name": "Xinjiang"
+        "name": "Xizang Zizhiqu",
+        "subdivisions": [
+          "Lhasa Shi",
+          "Nagqu Diqu",
+          "Ngari Diqu",
+          "Nyingchi Diqu",
+          "Qamdo Diqu",
+          "Shannan Diqu",
+          "Xigazê Diqu"
+        ]
       },
       {
-        "name": "Yunnan"
+        "name": "Yunnan Sheng",
+        "subdivisions": [
+          "Baoshan Shi",
+          "Chuxiong Zhou",
+          "Dali Zhou",
+          "Dehong Zhou",
+          "Dêqên Zhou",
+          "Honghe Zhou",
+          "Kunming Shi",
+          "Lijiang Shi",
+          "Lincang Shi",
+          "Nujiang Zhou",
+          "Puer Shi",
+          "Qujing Shi",
+          "Wenshan Zhou",
+          "Xishuangbanna Zhou",
+          "Yuxi Shi",
+          "Zhaotong Shi"
+        ]
       },
       {
-        "name": "Zhejiang"
+        "name": "Zhejiang Sheng",
+        "subdivisions": [
+          "Hangzhou Shi",
+          "Huzhou Shi",
+          "Jiaxing Shi",
+          "Jinhua Shi",
+          "Lishui Shi",
+          "Ningbo Shi",
+          "Quzhou Shi",
+          "Shaoxing Shi",
+          "Taizhou Shi",
+          "Wenzhou Shi",
+          "Zhoushan Shi"
+        ]
       }
     ]
   },
@@ -16054,7 +16590,7 @@
         "name": "Príncipe"
       },
       {
-        "name": "São Tomé"
+        "name": "S��o Tomé"
       }
     ]
   },
@@ -16171,7 +16707,7 @@
         "name": "Bor"
       },
       {
-        "name": "Braničevo"
+        "name": "Brani��evo"
       },
       {
         "name": "Central Banat"
